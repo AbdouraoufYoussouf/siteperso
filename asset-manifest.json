@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/siteperso/static/css/main.e6c13ad2.css",
+    "main.js": "/siteperso/static/js/main.2acd0978.js",
+    "static/js/787.7b62bda4.chunk.js": "/siteperso/static/js/787.7b62bda4.chunk.js",
+    "static/media/blog.mp4": "/siteperso/static/media/blog.a35f7f8321f2431211c3.mp4",
+    "static/media/reactNative.mp4": "/siteperso/static/media/reactNative.f86dd3f0a6515fcd3941.mp4",
+    "static/media/socket.mp4": "/siteperso/static/media/socket.61bd7dc398b948f98491.mp4",
+    "static/media/tournois.mp4": "/siteperso/static/media/tournois.bdd70365a81a78d856a8.mp4",
+    "static/media/restau.mp4": "/siteperso/static/media/restau.404d01eb6a8b7e54bd29.mp4",
+    "static/media/sport.mp4": "/siteperso/static/media/sport.e8da5b3e6fb6db768b79.mp4",
+    "static/media/bg.jpeg": "/siteperso/static/media/bg.532e0f2841b745d3818b.jpeg",
+    "static/media/profil1.png": "/siteperso/static/media/profil1.cd0afdf7d3c649c6a68e.png",
+    "static/media/bootstrap.png": "/siteperso/static/media/bootstrap.d650a3504bbdd7a8dba2.png",
+    "static/media/logo.png": "/siteperso/static/media/logo.3e0688e1a3fe0903c826.png",
+    "static/media/redux.jpg": "/siteperso/static/media/redux.0003ae67039c629ee288.jpg",
+    "static/media/native.png": "/siteperso/static/media/native.90fb0021be64f2b1ce7e.png",
+    "static/media/django.png": "/siteperso/static/media/django.1561b91d7b75f3ca2814.png",
+    "static/media/mongodb.jpg": "/siteperso/static/media/mongodb.99371ff2863e56b0af3c.jpg",
+    "static/media/styled.svg": "/siteperso/static/media/styled.6e34e546e24de94bd5d818b2b75cafd1.svg",
+    "index.html": "/siteperso/index.html",
+    "main.e6c13ad2.css.map": "/siteperso/static/css/main.e6c13ad2.css.map",
+    "main.2acd0978.js.map": "/siteperso/static/js/main.2acd0978.js.map",
+    "787.7b62bda4.chunk.js.map": "/siteperso/static/js/787.7b62bda4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2acd0978.js"
+  ]
+}
