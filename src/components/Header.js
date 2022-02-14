@@ -142,9 +142,7 @@ const InfoRight = styled.div`
   @media screen and (max-width:870px) {
       margin-right: 60px;
   }
-  @media screen and (max-width: 530px){
-      
-  }
+  
 `;
 const SocialMedia = styled.div`
     display: flex;

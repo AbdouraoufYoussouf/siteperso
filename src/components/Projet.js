@@ -19,9 +19,6 @@ export const Projet = () => {
                     )
                 })
             }
-                
-                
-            
         </Container>
     </Fragment>
     );

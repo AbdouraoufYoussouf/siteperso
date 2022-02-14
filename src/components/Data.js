@@ -56,7 +56,7 @@ const Data =[
     },
     {
         "titre":"Création d’une application bureau de chat",
-        "desc":"c'est un projet java avec les socket, mon travail etait de creer deux interfaces graphiques desktop avec javafx,un qui avait le role du serveur et l'autre ,l'interface utilisateur permet de s'envoyer des messages entres utilisateurs apres un login",
+        "desc":"C'est un projet java avec les socket, mon travail etait de creer deux interfaces graphiques desktop avec javafx,un qui avait le role du serveur et l'autre ,l'interface utilisateur permet de s'envoyer des messages entres utilisateurs apres un login",
         "video":socket,
         "techno":[ 
             {"id":1,"nom":"Java"},

@@ -16,7 +16,7 @@ import mongodb from '../images/mongodb.jpg'
 export const Competence = () => {
   return (
     <Container id='competence'>
-        <div className='div1'>
+        <div className='div2'>
               <h1>Competence</h1>
         </div>
                 
@@ -86,7 +86,7 @@ const Container = styled.div`
     flex-direction: column;
     justify-content: center;
     margin-top: 40px;
-    .div1{
+    .div2{
         border-style : none;
         border-top-left-radius: 50px;
         border-top-right-radius: 50px;
@@ -118,9 +118,6 @@ const Details = styled.div`
         }
     @media screen and (max-width:823px) {
         flex-direction: column;
-    }
-    @media screen and (max-width: 530px){
-
     }
 `;
 const Frontend = styled.div`
@@ -155,8 +152,6 @@ const Bar = styled.div`
 `;
 const Items = styled.ul`
     display: flex;
-    
-   
     margin: 0;
     flex-wrap: wrap;
     padding: 0;
@@ -182,8 +177,5 @@ const Items = styled.ul`
         margin-top: 10px;
         color: white;
     }
-    @media screen and (max-width:823px) {
-        grid-template-columns: repeat(1,1fr);
-        margin-left: 40px;
-    }
+    
 `;
