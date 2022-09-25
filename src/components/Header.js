@@ -49,7 +49,7 @@ export const Header = () => {
                         
                             loop={Infinity}
                             steps={[
-                                "Student Master 2",
+                                "Computer engineering graduate",
                                 1000,
                                 "Full Stack Developpeur",
                                 1000,
@@ -59,7 +59,7 @@ export const Header = () => {
                                 1000,
                                 "React/React-Native DEV",
                                 1000,
-                                "Spring Boot DEV ",
+                                ".Net DEV ",
                                 1000,
                             ]}
                         />
@@ -142,9 +142,7 @@ const InfoRight = styled.div`
   @media screen and (max-width:870px) {
       margin-right: 60px;
   }
-  @media screen and (max-width: 530px){
-      
-  }
+  
 `;
 const SocialMedia = styled.div`
     display: flex;

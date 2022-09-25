@@ -122,6 +122,7 @@ const Items = styled.ul`
     padding: 0px 0;
     }
 `;
+
 const VideoBg = styled.video`
     max-width: 100%;
     height: auto;align-self: center;
