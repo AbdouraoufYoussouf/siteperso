@@ -13,7 +13,7 @@ export const Abaout = () => {
                   <img src={profil1} />
             </Photo>
             <Description>
-                <p>je suis etudient en master 2 en ingenierie informatique à la faculté des sciences de Tetouan</p>
+                <p>Récemment diplômé d’un master en ingénierie informatique à la faculté des sciences de Tétouan, je suis à la recherche de mon premier travail. Je suis motivé à développer mes compétences et évoluer professionnellement. Je suis confiant dans ma capacité à s’adapter dans n’importe quelle conjoncture de travail et d’optimiser celle-ci pour toute l’équipe.</p>
                 <p>je viens des iles Comores et je fais me etudes ici au maroc depuis 2016</p>
                 <p>je suis au courant que j'ai pas accés d'experence dans le developement et c'est pourquoi je solicite à vous chere recruteur de me de donner une chance de vous prouver ma valeur</p>
                 <p>Avec la technologie React j'ai creer cette meme portfolio.</p>
