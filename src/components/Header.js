@@ -49,7 +49,7 @@ export const Header = () => {
                         
                             loop={Infinity}
                             steps={[
-                                "computer engineering graduate",
+                                "Computer engineering graduate",
                                 1000,
                                 "Full Stack Developpeur",
                                 1000,
